@@ -1,1 +1,3 @@
 this file contains some very smart functionality, you see :
+
+* very smart function here which does X
